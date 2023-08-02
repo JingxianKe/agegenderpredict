@@ -1,4 +1,4 @@
-# Copyright (c) 2022, Zhiqiang Wang. All rights reserved.
+#
 
 import numpy as np
 import torch
